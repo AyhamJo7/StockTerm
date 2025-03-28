@@ -31,6 +31,6 @@ build/
 Thumbs.db
 
 # Application specific files
-stockterm
-ggs
+/stockterm
+/ggs
 .stockterm/
