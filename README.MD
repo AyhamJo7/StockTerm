@@ -31,7 +31,7 @@
     <a href="#license">License</a>
   </p>
 
-  <img src="./docs/screenshot.png" alt="StockTerm Screenshot" width="600">
+  <img src="./stockterm.png" alt="StockTerm Screenshot" width="600">
 </div>
 
 ## Features
